@@ -1,6 +1,8 @@
 <h1 align="center"> Hey there, this is Cristark's personal Github </h1>
-
-## ↳ I'm learning and improving in [42 Málaga](https://www.42malaga.com/)
+<details>
+  
+## ~~↳ I'm learning and improving in [42 Málaga](https://www.42malaga.com/)~~ [REDACTED]
+(i stopped at 42 to focus more in my career :( ))
 
 [![mmita's 42 stats](https://badge42.vercel.app/api/v2/cljrhzze4000608kyslz1l1e2/stats?cursusId=21&coalitionId=274)](https://profile.intra.42.fr/users/mmita)
 
@@ -15,8 +17,9 @@ Born2beroot ↣ [![mmita's 42 Born2beroot Score](https://badge42.vercel.app/api/
 
 </details>
 </h4>
+</details>
 
-## ↳ I'm also studying at [UMA: Computer Science Engineer](https://www.uma.es/grado-en-ingenieria-informatica)
+## ↳ I'm studying at [UMA: Computer Science Engineer](https://www.uma.es/grado-en-ingenieria-informatica)
 WIP: Custom Student card with info.
 
 [//]: <> (hacer una imagen de la carrera como el de 42, enseñando el año cursando, el email, la carrera, y añadir si eso los voluntariados como las puertas abiertas)
