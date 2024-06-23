@@ -23,6 +23,13 @@ Born2beroot ↣ [![mmita's 42 Born2beroot Score](https://badge42.vercel.app/api/
 WIP: Custom Student card with info.
 
 [//]: <> (hacer una imagen de la carrera como el de 42, enseñando el año cursando, el email, la carrera, y añadir si eso los voluntariados como las puertas abiertas)
+<a href="https://api.daily.dev/get?r=cristark" target="_blank">
+  <img
+    width="300"
+    align="right"
+    src="devcard.svg"
+  />
+</a>
 
 <h4>
 <details open>
