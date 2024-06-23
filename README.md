@@ -38,3 +38,4 @@ WIP: Custom Student card with info.
 ## ↳ Github Stats
 
 [![Cristark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristark02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://app.daily.dev/cristark"><img src="https://api.daily.dev/devcards/v2/7TwOLfB3W4hByCLwFgcUD.png?type=wide&r=onc" width="652" alt="Mihai Cristian Mita's Dev Card"/></a>
